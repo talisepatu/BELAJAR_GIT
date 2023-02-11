@@ -1,0 +1,1 @@
+Jika ingin kolab jangan membuat directory baru, tapi clone dari repository yang ada kemudian lakukan push / pull
