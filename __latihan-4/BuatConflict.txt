@@ -1,2 +1,6 @@
 1. Conflict-1
+<<<<<<< HEAD
+=======
+2. Conflict-2
+>>>>>>> 1d2d98ea242bac0fcb2aa61e813338b08c8300a0
 3. Conflict-3
